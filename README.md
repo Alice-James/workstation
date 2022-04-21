@@ -7,4 +7,5 @@
 - [latex语法](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1))
 ***
 # 其他
-- [CMU](http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/#bscurriculumtextcontainer)
+- [CMU](http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/#bscurriculumtextcontainer)  
+- [MIT](https://github.com/Alice-James/workstation/files/8532202/6-3_roadmap.pdf)
