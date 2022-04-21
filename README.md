@@ -1,4 +1,6 @@
 # 常用的工具
-[算法]: https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/ (safa)
-
-富士达
+- [markdown](https://github.com/Alice-James/workstation/blob/main/markdown/markdown%E8%AF%AD%E6%B3%95.md)  
+- [latex](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
+***
+# 在学的课程
+- [cs自学计划](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
