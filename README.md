@@ -11,3 +11,6 @@
 - [CMU](http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/#bscurriculumtextcontainer)  
 - [MIT](https://github.com/Alice-James/workstation/files/8532202/6-3_roadmap.pdf)
 - [MIT课程](https://eecsis.mit.edu/numbering.html#6.10xx)
+***
+# 修改
+- [让DEVC++显示中文](https://github.com/Alice-James/workstation/blob/main/DEVC++/%E6%98%BE%E7%A4%BA%E4%B8%AD%E6%96%87.md)
