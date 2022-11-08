@@ -13,6 +13,11 @@
 - [Missing Semester](https://missing.csail.mit.edu/2020/)   
     [视频](https://www.bilibili.com/video/BV1x7411H7wa?spm_id_from=333.337.search-card.all.click&vd_source=c5550c64419255b2e8c726aed68d4de4)   
     [资源](https://github.com/weijiew/codestep/tree/master/docs/book/missing)
+    
+- 数据结构——邓俊辉
+- [操作系统](https://space.bilibili.com/202224425/channel/collectiondetail?sid=192498)——CSAPP中文
+- [计算机网络](https://www.bilibili.com/video/BV1JV411t7ow/?vd_source=c5550c64419255b2e8c726aed68d4de4)——自顶向下方法
+- [数据库](https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/15445/)
 ***
 # 其他
 - [CMU](http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/#bscurriculumtextcontainer)  
